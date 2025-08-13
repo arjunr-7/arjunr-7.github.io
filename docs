@@ -1,0 +1,15 @@
+<Html>
+<head>
+</head>
+
+<Body>
+<img src="https://www.nhg.org.uk/media/kbahbjto/notting-hill-genesis-logo.png">
+<br>Place holder web page
+
+<script id="Microsoft_Omnichannel_LCWidget" src="https://oc-cdn-public-gbr.azureedge.net/livechatwidget/scripts/LiveChatBootstrapper.js"" onerror="(function(el){el.parentNode.removeChild(el);var s=document.createElement('script');s.src='https://ocprodpublicgbrgs.blob.core.windows.net/livechatwidget/scripts/LiveChatBootstrapper.js';s.setAttribute('id', 'Microsoft_Omnichannel_LCWidget');s.setAttribute('data-app-id', '7bbda3a8-8d87-43c5-bf92-bb6230c43a37');s.setAttribute('data-lcw-version', 'prod');s.setAttribute('data-org-id', 'a980ec0e-0ea9-4a8e-993a-a1de9e9f0ed3');s.setAttribute('data-org-url', 'https://m-a980ec0e-0ea9-4a8e-993a-a1de9e9f0ed3.uk.omnichannelengagementhub.com');document.body.appendChild(s);})(this);" data-app-id="7bbda3a8-8d87-43c5-bf92-bb6230c43a37" data-lcw-version="prod" data-org-id="a980ec0e-0ea9-4a8e-993a-a1de9e9f0ed3" data-org-url="https://m-a980ec0e-0ea9-4a8e-993a-a1de9e9f0ed3.uk.omnichannelengagementhub.com" async></script>
+
+
+
+</Body>
+</html>
+  
